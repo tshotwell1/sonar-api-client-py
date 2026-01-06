@@ -1,3 +1,4 @@
+# {This Fork is going to become a Python Port... in 2.Eventually}
 # PHP Sonar API Client
 
 An object-oriented client for Sonar ISP management software's API. This client enables you to interact with Sonar's GraphQL API using PHP objects, supporting both individual and concurrent operations through queries and mutations.
